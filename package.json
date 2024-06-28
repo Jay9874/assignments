@@ -1,0 +1,22 @@
+{
+  "name": "assignments",
+  "version": "1.0.0",
+  "description": "A repo with assignments",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jay9874/assignments.git"
+  },
+  "keywords": [
+    "assignments"
+  ],
+  "author": "Jay Prakash Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jay9874/assignments/issues"
+  },
+  "homepage": "https://github.com/Jay9874/assignments#readme"
+}
